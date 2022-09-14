@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sweetyshetty123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# AdvWebDev
+Form Validation in level 8
 
-<!---
-sweetyshetty123/sweetyshetty123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This website takes Name , Email , Password , Date of Birth as inputs and displays the entries in the below entries table.
+
